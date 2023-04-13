@@ -32,10 +32,10 @@ class Database extends Config
      */
     public $default = [
         'DSN'      => '',
-        'hostname' => 'ec2-52-215-68-14.eu-west-1.compute.amazonaws.com',
-        'username' => 'eztcfxyuggnpsp',
-        'password' => '95260d3390a675f5c7ffa23d4ea4fd9659e8201a8362cdae574eff5702a83425',
-        'database' => 'd45na3rolc52q3',
+        'hostname' => 'ec2-54-77-120-158.eu-west-1.compute.amazonaws.com',
+        'username' => 'gdnyxmixxsoqhi',
+        'password' => 'f5a8eb49e36183dc77537622243725c9bf710ada598c199a21719435107d0fa7',
+        'database' => 'd89v1109irh5jd',
         'DBDriver' => 'Postgre',
         'DBPrefix' => '',
         'pConnect' => false,
